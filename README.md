@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolovG
-- 👀 I’m interested in learning about Software Engineering.
-- 🌱 I’m currently learning CS @ University of Illinois at Chicago
+- 👀 I’m interested in improving and expanding my skill set.
+- 🌱 I’m currently learning ML & AI.
 - 💞️ I’m looking to collaborate on whatever I can be helpful in.
 - 📫 How to reach me  = nikolov.georgi18@gmail.com  :)
 
