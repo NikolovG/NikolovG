@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NikolovG
-- 👀 I’m interested in improving and expanding my skill set.
-- 🌱 I’m currently working as a software engineer.
-- 💞️ I’m looking to collaborate on stuff & things.
+- 👀 I’m interested in Modular AI Systems.
+- 🌱 I’m currently working as a software engineer & architect.
 
 <!---
 NikolovG/NikolovG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
